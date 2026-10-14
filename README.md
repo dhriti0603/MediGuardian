@@ -45,17 +45,28 @@ The project combines desktop GUI development, database management, notification 
 6. **Reporting Module** – Generates PDF reports.
 
 ---
-
 ## 📸 Screenshots
 
-[MediGuardian login](screenshot/login page.png)
-[MediGuardian Dashboard](screenshot/main dashboard.png)
-[MediGuardian medicine management](screenshot/medicine management.png)
-[MediGuardian dose reminder notification](screenshot/dose reminder.png)
-[MediGuardin history](screenshot/medicine history.png)
-[MediGuardian medicine analytics](screenshot/analytics.png)
-[MediGuardian pdf report](screenshot/PDF report.png)
+### 1. Login Page
+[![MediGuardian Login](<screenshot/login page.png>)](<screenshot/login page.png>)
 
+### 2. Main Dashboard
+[![MediGuardian Dashboard](<screenshot/main dashboard.png>)](<screenshot/main dashboard.png>)
+
+### 3. Medicine Management
+[![Medicine Management](<screenshot/medicine mangement.pn>)](<screenshot/medicine mangement.pn>)
+
+### 4. Dose Reminder
+[![Dose Reminder](<screenshot/dose reminder.png>)](<screenshot/dose reminder.png>)
+
+### 5. Medicine History
+[![Medicine History](<screenshot/medicine history.png>)](<screenshot/medicine history.png>)
+
+### 6. Analytics Dashboard
+[![Analytics Dashboard](screenshot/analytics.png)](screenshot/analytics.png)
+
+### 7. PDF Report
+[![PDF Report](<screenshot/PDF report.png>)](<screenshot/PDF report.png>)
 ---
 
 ## ⚙️ Installation and Setup
