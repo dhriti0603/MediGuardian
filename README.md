@@ -54,7 +54,7 @@ The project combines desktop GUI development, database management, notification 
 [![MediGuardian Dashboard](<screenshot/main dashboard.png>)](<screenshot/main dashboard.png>)
 
 ### 3. Medicine Management
-[![Medicine Management](<screenshot/medicine mangement.pn>)](<screenshot/medicine mangement.pn>)
+[![Medicine Management](<screenshot/medicine mangement.pn>)](<screenshot/medicine mangement.png>)
 
 ### 4. Dose Reminder
 [![Dose Reminder](<screenshot/dose reminder.png>)](<screenshot/dose reminder.png>)
