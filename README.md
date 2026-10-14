@@ -29,7 +29,7 @@ The project combines desktop GUI development, database management, notification 
 |---|---|
 | Python | Core application logic |
 | Tkinter | Desktop graphical user interface |
-| MySQL | Database management |
+| SQLite | LOCAL DATABASE STORAGE |
 | Matplotlib | Charts and data visualization |
 | ReportLab | PDF report generation |
 
@@ -48,22 +48,13 @@ The project combines desktop GUI development, database management, notification 
 
 ## 📸 Screenshots
 
-Add screenshots of your actual application here to demonstrate its interface and functionality.
-
-Suggested screenshots:
-
-- Login and Registration
-- Main Dashboard
-- Medicine Management
-- Dose Reminder Notification
-- Medicine History and Analytics
-- PDF Report
-
-Example Markdown:
-
-```markdown
-![MediGuardian Dashboard](screenshots/dashboard.png)
-```
+[MediGuardian login](screenshot/login page.png)
+[MediGuardian Dashboard](screenshot/main dashboard.png)
+[MediGuardian medicine management](screenshot/medicine management.png)
+[MediGuardian dose reminder notification](screenshot/dose reminder.png)
+[MediGuardin history](screenshot/medicine history.png)
+[MediGuardian medicine analytics](screenshot/analytics.png)
+[MediGuardian pdf report](screenshot/PDF report.png)
 
 ---
 
